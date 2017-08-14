@@ -1,8 +1,4 @@
----
-title:  "Git tutorial"
-date: 2017-08-09 00:00:00
-comments: true
----
+﻿# Git tutorial
 
 - 생활코딩에서 지옥에서 온 Git 강의 내용을 정리하였다.
 
